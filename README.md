@@ -1,13 +1,10 @@
 # Social Media APIs for Posting, Scheduling, and Analytics
 
 ![Ayrshare logo](https://www.ayrshare.com/wp-content/uploads/2020/08/ayr-logo-2156-reduced.png)
-
 The Social Media API is a Node.js wrapper SDK for [Ayrshare's APIs](https://www.ayrshare.com).
 
 Ayrshare is a powerful set of APIs that enable you to send social media posts, get analytics, and add comments to *X/Twitter*, *Instagram*, *Facebook*, *LinkedIn*, *YouTube*, *Google Business Profile*, *Pinterest*, *TikTok*, *Reddit*, and *Telegram* on behalf of your users or clients.
-
 The Ayrshare Social API handles all the setup and maintenance for the social media networks. One API to rule them all (yeah, went there). See the full list of [full list of features](https://docs.ayrshare.com/rest-api/overview) in our docs.
-
 Get started with a [free plan](https://www.ayrshare.com/pricing), or if you have a platform or manage multiple users check out the [Business Plan](https://www.ayrshare.com/business-plan-for-multiple-users/).
 
 For more information on setup, see our installation [video](https://youtu.be/G8M6DZdtcMc) or our [Quick Start Guide](https://docs.ayrshare.com/quick-start-guide).
